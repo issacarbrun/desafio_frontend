@@ -1,0 +1,3751 @@
+{
+    "resultado": true,
+    "device": {
+        "id": 2,
+        "name": "Smartemp",
+        "id_physical": "7F86B67DC",
+        "transmission_time": 5,
+        "status": 1,
+        "type": 2,
+        "temperature": 1,
+        "humidity": 0,
+        "io": 0,
+        "energy_consumption": 0,
+        "current": 0,
+        "horimeter": 0,
+        "energy_status": 1,
+        "vibration": 0,
+        "height": 0,
+        "pressure": 0,
+        "wind_speed": 0,
+        "rain_gauge": 0,
+        "wind_direction": 0,
+        "id_company": 1,
+        "created_at": "29\/07\/2024 14:38:50",
+        "updated_at": "29\/07\/2024 14:43:23",
+        "sensor": [
+            {
+                "id": 5,
+                "type": 1,
+                "description": "Sacada",
+                "min": "13.00",
+                "max": "20.00",
+                "id_sensor_type": 1,
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 14:38:50",
+                "updated_at": "29\/07\/2024 14:38:50"
+            },
+            {
+                "id": 6,
+                "type": 12,
+                "description": "device",
+                "min": "5.00",
+                "max": "7.00",
+                "id_sensor_type": null,
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 14:38:50",
+                "updated_at": "29\/07\/2024 14:38:50"
+            },
+            {
+                "id": 7,
+                "type": 13,
+                "description": "device",
+                "min": "3.60",
+                "max": "4.20",
+                "id_sensor_type": null,
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 14:38:50",
+                "updated_at": "29\/07\/2024 14:38:50"
+            },
+            {
+                "id": 8,
+                "type": 5,
+                "description": "device",
+                "min": "1.00",
+                "max": "1.00",
+                "id_sensor_type": null,
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 14:38:50",
+                "updated_at": "29\/07\/2024 14:38:50"
+            }
+        ],
+        "data": [
+            {
+                "id": 1338,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.216067791,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 14
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 17:42:45",
+                "updated_at": "29\/07\/2024 17:42:45"
+            },
+            {
+                "id": 1344,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.355214119,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 14
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 17:47:45",
+                "updated_at": "29\/07\/2024 17:47:45"
+            },
+            {
+                "id": 1350,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.425811768,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 14
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 17:52:45",
+                "updated_at": "29\/07\/2024 17:52:45"
+            },
+            {
+                "id": 1356,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.218120098,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 14
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 17:57:45",
+                "updated_at": "29\/07\/2024 17:57:45"
+            },
+            {
+                "id": 1362,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.342222214,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 14
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 18:02:45",
+                "updated_at": "29\/07\/2024 18:02:45"
+            },
+            {
+                "id": 1368,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.067008018,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 14
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 18:07:45",
+                "updated_at": "29\/07\/2024 18:07:45"
+            },
+            {
+                "id": 1374,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.174188137,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 18:12:45",
+                "updated_at": "29\/07\/2024 18:12:45"
+            },
+            {
+                "id": 1380,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.219657898,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 18:17:45",
+                "updated_at": "29\/07\/2024 18:17:45"
+            },
+            {
+                "id": 1386,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.350940228,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 18:22:45",
+                "updated_at": "29\/07\/2024 18:22:45"
+            },
+            {
+                "id": 1392,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.163931847,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 1.960000038
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 18:27:45",
+                "updated_at": "29\/07\/2024 18:27:45"
+            },
+            {
+                "id": 1398,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.207520962,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 18:32:45",
+                "updated_at": "29\/07\/2024 18:32:45"
+            },
+            {
+                "id": 1404,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.369573116,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 18:37:48",
+                "updated_at": "29\/07\/2024 18:37:48"
+            },
+            {
+                "id": 1410,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.172479153,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 18:42:45",
+                "updated_at": "29\/07\/2024 18:42:45"
+            },
+            {
+                "id": 1416,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.226325035,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 18:47:45",
+                "updated_at": "29\/07\/2024 18:47:45"
+            },
+            {
+                "id": 1422,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.40940094,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 18:52:45",
+                "updated_at": "29\/07\/2024 18:52:45"
+            },
+            {
+                "id": 1428,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.129572868,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 18:57:48",
+                "updated_at": "29\/07\/2024 18:57:48"
+            },
+            {
+                "id": 1434,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.244273186,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 14
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 19:02:45",
+                "updated_at": "29\/07\/2024 19:02:45"
+            },
+            {
+                "id": 1440,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.353846073,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 19:07:45",
+                "updated_at": "29\/07\/2024 19:07:45"
+            },
+            {
+                "id": 1446,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.143931866,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 19:12:45",
+                "updated_at": "29\/07\/2024 19:12:45"
+            },
+            {
+                "id": 1452,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.270256996,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 19:17:45",
+                "updated_at": "29\/07\/2024 19:17:45"
+            },
+            {
+                "id": 1458,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.305811882,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 19:22:45",
+                "updated_at": "29\/07\/2024 19:22:45"
+            },
+            {
+                "id": 1464,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.101539135,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 19:27:45",
+                "updated_at": "29\/07\/2024 19:27:45"
+            },
+            {
+                "id": 1470,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.293674946,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 19:32:48",
+                "updated_at": "29\/07\/2024 19:32:48"
+            },
+            {
+                "id": 1476,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.332307816,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 19:37:50",
+                "updated_at": "29\/07\/2024 19:37:50"
+            },
+            {
+                "id": 1482,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.127692223,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 19:42:45",
+                "updated_at": "29\/07\/2024 19:42:45"
+            },
+            {
+                "id": 1488,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.305298805,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 19:47:45",
+                "updated_at": "29\/07\/2024 19:47:45"
+            },
+            {
+                "id": 1494,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.379487038,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 19:52:45",
+                "updated_at": "29\/07\/2024 19:52:45"
+            },
+            {
+                "id": 1500,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.074017048,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 19:57:45",
+                "updated_at": "29\/07\/2024 19:57:45"
+            },
+            {
+                "id": 1506,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.332819939,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 20:02:45",
+                "updated_at": "29\/07\/2024 20:02:45"
+            },
+            {
+                "id": 1512,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.316923141,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 20:07:45",
+                "updated_at": "29\/07\/2024 20:07:45"
+            },
+            {
+                "id": 1518,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.093503952,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 20:12:45",
+                "updated_at": "29\/07\/2024 20:12:45"
+            },
+            {
+                "id": 1524,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.357778072,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 20:17:45",
+                "updated_at": "29\/07\/2024 20:17:45"
+            },
+            {
+                "id": 1530,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.257948875,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 20:22:45",
+                "updated_at": "29\/07\/2024 20:22:45"
+            },
+            {
+                "id": 1536,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.115385056,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 20:27:45",
+                "updated_at": "29\/07\/2024 20:27:45"
+            },
+            {
+                "id": 1542,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.387863159,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 20:32:45",
+                "updated_at": "29\/07\/2024 20:32:45"
+            },
+            {
+                "id": 1548,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.300342083,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 20:37:45",
+                "updated_at": "29\/07\/2024 20:37:45"
+            },
+            {
+                "id": 1554,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.138631821,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 20:42:45",
+                "updated_at": "29\/07\/2024 20:42:45"
+            },
+            {
+                "id": 1560,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.421195984,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 20:47:45",
+                "updated_at": "29\/07\/2024 20:47:45"
+            },
+            {
+                "id": 1566,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.238975048,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 20:52:45",
+                "updated_at": "29\/07\/2024 20:52:45"
+            },
+            {
+                "id": 1572,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.15982914,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 20:57:45",
+                "updated_at": "29\/07\/2024 20:57:45"
+            },
+            {
+                "id": 1578,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.471795082,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 21:02:45",
+                "updated_at": "29\/07\/2024 21:02:45"
+            },
+            {
+                "id": 1584,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.284101963,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 21:07:45",
+                "updated_at": "29\/07\/2024 21:07:45"
+            },
+            {
+                "id": 1590,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.175726891,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 21:12:45",
+                "updated_at": "29\/07\/2024 21:12:45"
+            },
+            {
+                "id": 1596,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.4145298,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 21:17:45",
+                "updated_at": "29\/07\/2024 21:17:45"
+            },
+            {
+                "id": 1602,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.213503838,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 21:22:45",
+                "updated_at": "29\/07\/2024 21:22:45"
+            },
+            {
+                "id": 1608,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.201708794,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 21:27:45",
+                "updated_at": "29\/07\/2024 21:27:45"
+            },
+            {
+                "id": 1614,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.463418961,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 21:32:48",
+                "updated_at": "29\/07\/2024 21:32:48"
+            },
+            {
+                "id": 1620,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.036067963,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 21:37:45",
+                "updated_at": "29\/07\/2024 21:37:45"
+            },
+            {
+                "id": 1626,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.027349949,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 21:42:45",
+                "updated_at": "29\/07\/2024 21:42:45"
+            },
+            {
+                "id": 1632,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 4.995727062,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 21:47:45",
+                "updated_at": "29\/07\/2024 21:47:45"
+            },
+            {
+                "id": 1638,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.051795006,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 21:52:45",
+                "updated_at": "29\/07\/2024 21:52:45"
+            },
+            {
+                "id": 1644,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.06974411,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 21:57:45",
+                "updated_at": "29\/07\/2024 21:57:45"
+            },
+            {
+                "id": 1650,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.046154022,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 22:02:52",
+                "updated_at": "29\/07\/2024 22:02:52"
+            },
+            {
+                "id": 1656,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.017264843,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 22:07:45",
+                "updated_at": "29\/07\/2024 22:07:45"
+            },
+            {
+                "id": 1662,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.06119585,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 22:12:45",
+                "updated_at": "29\/07\/2024 22:12:45"
+            },
+            {
+                "id": 1668,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.04734993,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 22:17:45",
+                "updated_at": "29\/07\/2024 22:17:45"
+            },
+            {
+                "id": 1674,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.006836891,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 22:22:45",
+                "updated_at": "29\/07\/2024 22:22:45"
+            },
+            {
+                "id": 1680,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.038804054,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 22:27:46",
+                "updated_at": "29\/07\/2024 22:27:46"
+            },
+            {
+                "id": 1686,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.030768871,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 22:32:45",
+                "updated_at": "29\/07\/2024 22:32:45"
+            },
+            {
+                "id": 1692,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.015896797,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 22:37:45",
+                "updated_at": "29\/07\/2024 22:37:45"
+            },
+            {
+                "id": 1698,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.043931961,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 22:42:45",
+                "updated_at": "29\/07\/2024 22:42:45"
+            },
+            {
+                "id": 1704,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.040854931,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 22:47:45",
+                "updated_at": "29\/07\/2024 22:47:45"
+            },
+            {
+                "id": 1710,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.055385113,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 22:52:45",
+                "updated_at": "29\/07\/2024 22:52:45"
+            },
+            {
+                "id": 1716,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.06119585,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 22:57:45",
+                "updated_at": "29\/07\/2024 22:57:45"
+            },
+            {
+                "id": 1722,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.015213966,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 23:02:45",
+                "updated_at": "29\/07\/2024 23:02:45"
+            },
+            {
+                "id": 1728,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.035554886,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 23:07:45",
+                "updated_at": "29\/07\/2024 23:07:45"
+            },
+            {
+                "id": 1734,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.043248177,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 23:12:48",
+                "updated_at": "29\/07\/2024 23:12:48"
+            },
+            {
+                "id": 1740,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.066154003,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 23:17:45",
+                "updated_at": "29\/07\/2024 23:17:45"
+            },
+            {
+                "id": 1746,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.029572964,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 23:22:45",
+                "updated_at": "29\/07\/2024 23:22:45"
+            },
+            {
+                "id": 1752,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.011281967,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 23:27:45",
+                "updated_at": "29\/07\/2024 23:27:45"
+            },
+            {
+                "id": 1758,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.041708946,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 23:32:45",
+                "updated_at": "29\/07\/2024 23:32:45"
+            },
+            {
+                "id": 1764,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.015727043,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 23:37:45",
+                "updated_at": "29\/07\/2024 23:37:45"
+            },
+            {
+                "id": 1770,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.013504028,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 23:42:45",
+                "updated_at": "29\/07\/2024 23:42:45"
+            },
+            {
+                "id": 1776,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.057264805,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 23:47:45",
+                "updated_at": "29\/07\/2024 23:47:45"
+            },
+            {
+                "id": 1782,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.034700871,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 23:52:45",
+                "updated_at": "29\/07\/2024 23:52:45"
+            },
+            {
+                "id": 1788,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.064785957,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "29\/07\/2024 23:58:01",
+                "updated_at": "29\/07\/2024 23:58:01"
+            },
+            {
+                "id": 1794,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.038462162,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 00:02:47",
+                "updated_at": "30\/07\/2024 00:02:47"
+            },
+            {
+                "id": 1800,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.06820488,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 00:07:45",
+                "updated_at": "30\/07\/2024 00:07:45"
+            },
+            {
+                "id": 1806,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.017436028,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 00:12:45",
+                "updated_at": "30\/07\/2024 00:12:45"
+            },
+            {
+                "id": 1812,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.023759842,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 00:17:45",
+                "updated_at": "30\/07\/2024 00:17:45"
+            },
+            {
+                "id": 1818,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.048204899,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 00:22:45",
+                "updated_at": "30\/07\/2024 00:22:45"
+            },
+            {
+                "id": 1824,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.044614792,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 00:27:45",
+                "updated_at": "30\/07\/2024 00:27:45"
+            },
+            {
+                "id": 1830,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.037436008,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 00:32:45",
+                "updated_at": "30\/07\/2024 00:32:45"
+            },
+            {
+                "id": 1836,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.025982857,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 00:37:45",
+                "updated_at": "30\/07\/2024 00:37:45"
+            },
+            {
+                "id": 1842,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.003931999,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 00:42:46",
+                "updated_at": "30\/07\/2024 00:42:46"
+            },
+            {
+                "id": 1848,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.032308102,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 00:47:45",
+                "updated_at": "30\/07\/2024 00:47:45"
+            },
+            {
+                "id": 1854,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.043759823,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 00:52:45",
+                "updated_at": "30\/07\/2024 00:52:45"
+            },
+            {
+                "id": 1860,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.033845901,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 00:57:45",
+                "updated_at": "30\/07\/2024 00:57:45"
+            },
+            {
+                "id": 1866,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.061367989,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 01:02:48",
+                "updated_at": "30\/07\/2024 01:02:48"
+            },
+            {
+                "id": 1872,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.075385094,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 01:07:45",
+                "updated_at": "30\/07\/2024 01:07:45"
+            },
+            {
+                "id": 1878,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.024272919,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 01:12:45",
+                "updated_at": "30\/07\/2024 01:12:45"
+            },
+            {
+                "id": 1884,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.035385132,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 01:17:45",
+                "updated_at": "30\/07\/2024 01:17:45"
+            },
+            {
+                "id": 1890,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.048376083,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 01:22:45",
+                "updated_at": "30\/07\/2024 01:22:45"
+            },
+            {
+                "id": 1896,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.012477875,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 01:27:45",
+                "updated_at": "30\/07\/2024 01:27:45"
+            },
+            {
+                "id": 1902,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.057949066,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 01:32:45",
+                "updated_at": "30\/07\/2024 01:32:45"
+            },
+            {
+                "id": 1908,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.036752224,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 01:37:45",
+                "updated_at": "30\/07\/2024 01:37:45"
+            },
+            {
+                "id": 1914,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.030599117,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 01:42:45",
+                "updated_at": "30\/07\/2024 01:42:45"
+            },
+            {
+                "id": 1920,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.048546791,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 01:47:48",
+                "updated_at": "30\/07\/2024 01:47:48"
+            },
+            {
+                "id": 1926,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.042050838,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 01:52:45",
+                "updated_at": "30\/07\/2024 01:52:45"
+            },
+            {
+                "id": 1932,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.011453152,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 01:57:48",
+                "updated_at": "30\/07\/2024 01:57:48"
+            },
+            {
+                "id": 1938,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.054187775,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 02:02:45",
+                "updated_at": "30\/07\/2024 02:02:45"
+            },
+            {
+                "id": 1944,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.05042696,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 02:07:45",
+                "updated_at": "30\/07\/2024 02:07:45"
+            },
+            {
+                "id": 1950,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.039828777,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 02:12:45",
+                "updated_at": "30\/07\/2024 02:12:45"
+            },
+            {
+                "id": 1956,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.024103165,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 02:17:45",
+                "updated_at": "30\/07\/2024 02:17:45"
+            },
+            {
+                "id": 1962,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.003931999,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 02:22:45",
+                "updated_at": "30\/07\/2024 02:22:45"
+            },
+            {
+                "id": 1968,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.026325226,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 02:27:45",
+                "updated_at": "30\/07\/2024 02:27:45"
+            },
+            {
+                "id": 1974,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.062735081,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 02:32:45",
+                "updated_at": "30\/07\/2024 02:32:45"
+            },
+            {
+                "id": 1980,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.016922951,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 02:37:45",
+                "updated_at": "30\/07\/2024 02:37:45"
+            },
+            {
+                "id": 1986,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.035042763,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 02:42:45",
+                "updated_at": "30\/07\/2024 02:42:45"
+            },
+            {
+                "id": 1992,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.072477818,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 02:47:45",
+                "updated_at": "30\/07\/2024 02:47:45"
+            },
+            {
+                "id": 1998,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.076240063,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 02:52:45",
+                "updated_at": "30\/07\/2024 02:52:45"
+            },
+            {
+                "id": 2004,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.033332825,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 02:57:45",
+                "updated_at": "30\/07\/2024 02:57:45"
+            },
+            {
+                "id": 2010,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.018118858,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 03:02:45",
+                "updated_at": "30\/07\/2024 03:02:45"
+            },
+            {
+                "id": 2016,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.043418884,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 03:07:45",
+                "updated_at": "30\/07\/2024 03:07:45"
+            },
+            {
+                "id": 2022,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.041708946,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 03:12:45",
+                "updated_at": "30\/07\/2024 03:12:45"
+            },
+            {
+                "id": 2028,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.05350399,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 03:17:45",
+                "updated_at": "30\/07\/2024 03:17:45"
+            },
+            {
+                "id": 2034,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.063759804,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 03:22:45",
+                "updated_at": "30\/07\/2024 03:22:45"
+            },
+            {
+                "id": 2040,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.041195869,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 03:27:45",
+                "updated_at": "30\/07\/2024 03:27:45"
+            },
+            {
+                "id": 2046,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.048204899,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 03:32:45",
+                "updated_at": "30\/07\/2024 03:32:45"
+            },
+            {
+                "id": 2052,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.030768871,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 03:37:45",
+                "updated_at": "30\/07\/2024 03:37:45"
+            },
+            {
+                "id": 2058,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.058804035,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 03:42:45",
+                "updated_at": "30\/07\/2024 03:42:45"
+            },
+            {
+                "id": 2064,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.052136898,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 03:47:45",
+                "updated_at": "30\/07\/2024 03:47:45"
+            },
+            {
+                "id": 2070,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.048034191,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 03:52:45",
+                "updated_at": "30\/07\/2024 03:52:45"
+            },
+            {
+                "id": 2076,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.045470238,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 03:57:45",
+                "updated_at": "30\/07\/2024 03:57:45"
+            },
+            {
+                "id": 2082,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.03008604,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 04:02:45",
+                "updated_at": "30\/07\/2024 04:02:45"
+            },
+            {
+                "id": 2088,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.050940037,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 04:07:45",
+                "updated_at": "30\/07\/2024 04:07:45"
+            },
+            {
+                "id": 2094,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.034017086,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 04:12:45",
+                "updated_at": "30\/07\/2024 04:12:45"
+            },
+            {
+                "id": 2100,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.047008991,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 04:17:45",
+                "updated_at": "30\/07\/2024 04:17:45"
+            },
+            {
+                "id": 2106,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.029231071,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 04:22:45",
+                "updated_at": "30\/07\/2024 04:22:45"
+            },
+            {
+                "id": 2112,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.035727024,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 04:27:45",
+                "updated_at": "30\/07\/2024 04:27:45"
+            },
+            {
+                "id": 2118,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.043076992,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 04:32:45",
+                "updated_at": "30\/07\/2024 04:32:45"
+            },
+            {
+                "id": 2124,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.035385132,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 04:37:45",
+                "updated_at": "30\/07\/2024 04:37:45"
+            },
+            {
+                "id": 2130,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.021708965,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 04:42:45",
+                "updated_at": "30\/07\/2024 04:42:45"
+            },
+            {
+                "id": 2136,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.041368008,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 04:47:45",
+                "updated_at": "30\/07\/2024 04:47:45"
+            },
+            {
+                "id": 2142,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.018290997,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 04:52:45",
+                "updated_at": "30\/07\/2024 04:52:45"
+            },
+            {
+                "id": 2148,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.047863007,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 04:57:45",
+                "updated_at": "30\/07\/2024 04:57:45"
+            },
+            {
+                "id": 2154,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.041026115,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 05:02:45",
+                "updated_at": "30\/07\/2024 05:02:45"
+            },
+            {
+                "id": 2160,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.044614792,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 05:07:45",
+                "updated_at": "30\/07\/2024 05:07:45"
+            },
+            {
+                "id": 2166,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.033845901,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 05:12:45",
+                "updated_at": "30\/07\/2024 05:12:45"
+            },
+            {
+                "id": 2172,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.040513039,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 05:17:45",
+                "updated_at": "30\/07\/2024 05:17:45"
+            },
+            {
+                "id": 2178,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.036240101,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 05:22:45",
+                "updated_at": "30\/07\/2024 05:22:45"
+            },
+            {
+                "id": 2184,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.034700871,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 05:27:45",
+                "updated_at": "30\/07\/2024 05:27:45"
+            },
+            {
+                "id": 2190,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.014872074,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 05:32:45",
+                "updated_at": "30\/07\/2024 05:32:45"
+            },
+            {
+                "id": 2196,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.046495914,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 05:37:45",
+                "updated_at": "30\/07\/2024 05:37:45"
+            },
+            {
+                "id": 2202,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.046667099,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 05:42:45",
+                "updated_at": "30\/07\/2024 05:42:45"
+            },
+            {
+                "id": 2208,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.080854893,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 05:47:45",
+                "updated_at": "30\/07\/2024 05:47:45"
+            },
+            {
+                "id": 2214,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.020341873,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 05:52:45",
+                "updated_at": "30\/07\/2024 05:52:45"
+            },
+            {
+                "id": 2220,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.062222004,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 05:57:45",
+                "updated_at": "30\/07\/2024 05:57:45"
+            },
+            {
+                "id": 2226,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.019658089,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 06:02:45",
+                "updated_at": "30\/07\/2024 06:02:45"
+            },
+            {
+                "id": 2232,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.049913883,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 06:07:45",
+                "updated_at": "30\/07\/2024 06:07:45"
+            },
+            {
+                "id": 2238,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.070256233,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 06:12:45",
+                "updated_at": "30\/07\/2024 06:12:45"
+            },
+            {
+                "id": 2244,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.011453152,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 06:17:45",
+                "updated_at": "30\/07\/2024 06:17:45"
+            },
+            {
+                "id": 2250,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.05196619,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 06:22:45",
+                "updated_at": "30\/07\/2024 06:22:45"
+            },
+            {
+                "id": 2256,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.06512785,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 06:27:45",
+                "updated_at": "30\/07\/2024 06:27:45"
+            },
+            {
+                "id": 2262,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.062222004,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 06:32:45",
+                "updated_at": "30\/07\/2024 06:32:45"
+            },
+            {
+                "id": 2268,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.050599098,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 06:37:45",
+                "updated_at": "30\/07\/2024 06:37:45"
+            },
+            {
+                "id": 2274,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.065299034,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 06:42:45",
+                "updated_at": "30\/07\/2024 06:42:45"
+            },
+            {
+                "id": 2280,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.049744129,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 06:47:45",
+                "updated_at": "30\/07\/2024 06:47:45"
+            },
+            {
+                "id": 2291,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.05042696,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 06:57:45",
+                "updated_at": "30\/07\/2024 06:57:45"
+            },
+            {
+                "id": 2296,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.046495914,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 07:02:45",
+                "updated_at": "30\/07\/2024 07:02:45"
+            },
+            {
+                "id": 2302,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.031453133,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 07:07:45",
+                "updated_at": "30\/07\/2024 07:07:45"
+            },
+            {
+                "id": 2308,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.027180195,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 07:12:45",
+                "updated_at": "30\/07\/2024 07:12:45"
+            },
+            {
+                "id": 2314,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.06666708,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 07:17:45",
+                "updated_at": "30\/07\/2024 07:17:45"
+            },
+            {
+                "id": 2320,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.044958115,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 07:22:45",
+                "updated_at": "30\/07\/2024 07:22:45"
+            },
+            {
+                "id": 2326,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.039144993,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 07:27:45",
+                "updated_at": "30\/07\/2024 07:27:45"
+            },
+            {
+                "id": 2332,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.044958115,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 07:32:45",
+                "updated_at": "30\/07\/2024 07:32:45"
+            },
+            {
+                "id": 2338,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.060684204,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 07:37:45",
+                "updated_at": "30\/07\/2024 07:37:45"
+            },
+            {
+                "id": 2344,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.05196619,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 07:42:45",
+                "updated_at": "30\/07\/2024 07:42:45"
+            },
+            {
+                "id": 2350,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.043418884,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 07:47:45",
+                "updated_at": "30\/07\/2024 07:47:45"
+            },
+            {
+                "id": 2356,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.023590088,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 07:52:45",
+                "updated_at": "30\/07\/2024 07:52:45"
+            },
+            {
+                "id": 2362,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.036922932,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 07:57:45",
+                "updated_at": "30\/07\/2024 07:57:45"
+            },
+            {
+                "id": 2368,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.039828777,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 08:02:45",
+                "updated_at": "30\/07\/2024 08:02:45"
+            },
+            {
+                "id": 2374,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.026836872,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 08:07:45",
+                "updated_at": "30\/07\/2024 08:07:45"
+            },
+            {
+                "id": 2380,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.008034229,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 08:12:45",
+                "updated_at": "30\/07\/2024 08:12:45"
+            },
+            {
+                "id": 2386,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.040171146,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 08:17:45",
+                "updated_at": "30\/07\/2024 08:17:45"
+            },
+            {
+                "id": 2392,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.02393198,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 08:22:45",
+                "updated_at": "30\/07\/2024 08:22:45"
+            },
+            {
+                "id": 2398,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.038631916,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 08:27:45",
+                "updated_at": "30\/07\/2024 08:27:45"
+            },
+            {
+                "id": 2404,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.052308083,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 08:32:45",
+                "updated_at": "30\/07\/2024 08:32:45"
+            },
+            {
+                "id": 2410,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.038118839,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 08:37:45",
+                "updated_at": "30\/07\/2024 08:37:45"
+            },
+            {
+                "id": 2416,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.060684204,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 08:42:45",
+                "updated_at": "30\/07\/2024 08:42:45"
+            },
+            {
+                "id": 2422,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.048204899,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 08:47:45",
+                "updated_at": "30\/07\/2024 08:47:45"
+            },
+            {
+                "id": 2428,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.027863026,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 08:52:45",
+                "updated_at": "30\/07\/2024 08:52:45"
+            },
+            {
+                "id": 2435,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.052990913,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 08:57:46",
+                "updated_at": "30\/07\/2024 08:57:46"
+            },
+            {
+                "id": 2440,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.041537762,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 09:02:45",
+                "updated_at": "30\/07\/2024 09:02:45"
+            },
+            {
+                "id": 2446,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.045470238,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 09:07:45",
+                "updated_at": "30\/07\/2024 09:07:45"
+            },
+            {
+                "id": 2452,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.047691822,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 09:12:45",
+                "updated_at": "30\/07\/2024 09:12:45"
+            },
+            {
+                "id": 2458,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.03965807,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 09:17:45",
+                "updated_at": "30\/07\/2024 09:17:45"
+            },
+            {
+                "id": 2464,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.035727024,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 09:22:45",
+                "updated_at": "30\/07\/2024 09:22:45"
+            },
+            {
+                "id": 2470,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.042905807,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 09:27:45",
+                "updated_at": "30\/07\/2024 09:27:45"
+            },
+            {
+                "id": 2476,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.029231071,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 09:32:45",
+                "updated_at": "30\/07\/2024 09:32:45"
+            },
+            {
+                "id": 2482,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.021537781,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 09:37:45",
+                "updated_at": "30\/07\/2024 09:37:45"
+            },
+            {
+                "id": 2488,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.040513039,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 09:42:45",
+                "updated_at": "30\/07\/2024 09:42:45"
+            },
+            {
+                "id": 2494,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.038118839,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 09:47:45",
+                "updated_at": "30\/07\/2024 09:47:45"
+            },
+            {
+                "id": 2500,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.043931961,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 09:52:45",
+                "updated_at": "30\/07\/2024 09:52:45"
+            },
+            {
+                "id": 2506,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.050086021,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 09:57:45",
+                "updated_at": "30\/07\/2024 09:57:45"
+            },
+            {
+                "id": 2512,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.063248158,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 10:02:45",
+                "updated_at": "30\/07\/2024 10:02:45"
+            },
+            {
+                "id": 2518,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.054872036,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 10:07:45",
+                "updated_at": "30\/07\/2024 10:07:45"
+            },
+            {
+                "id": 2524,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.020513058,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 10:12:45",
+                "updated_at": "30\/07\/2024 10:12:45"
+            },
+            {
+                "id": 2530,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.032821178,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 10:17:45",
+                "updated_at": "30\/07\/2024 10:17:45"
+            },
+            {
+                "id": 2536,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.034530163,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 10:22:45",
+                "updated_at": "30\/07\/2024 10:22:45"
+            },
+            {
+                "id": 2542,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.022735119,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 10:27:45",
+                "updated_at": "30\/07\/2024 10:27:45"
+            },
+            {
+                "id": 2548,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.034700871,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 10:32:45",
+                "updated_at": "30\/07\/2024 10:32:45"
+            },
+            {
+                "id": 2554,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.036067963,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 10:37:45",
+                "updated_at": "30\/07\/2024 10:37:45"
+            },
+            {
+                "id": 2560,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.038290977,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 10:42:45",
+                "updated_at": "30\/07\/2024 10:42:45"
+            },
+            {
+                "id": 2566,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.041537762,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 10:47:45",
+                "updated_at": "30\/07\/2024 10:47:45"
+            },
+            {
+                "id": 2572,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.018804073,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 10:52:45",
+                "updated_at": "30\/07\/2024 10:52:45"
+            },
+            {
+                "id": 2578,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.054700851,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 12.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 10:57:47",
+                "updated_at": "30\/07\/2024 10:57:47"
+            },
+            {
+                "id": 2584,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.024785995,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 11:02:45",
+                "updated_at": "30\/07\/2024 11:02:45"
+            },
+            {
+                "id": 2590,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.055554867,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 11:07:45",
+                "updated_at": "30\/07\/2024 11:07:45"
+            },
+            {
+                "id": 2596,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.032649994,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 11:12:45",
+                "updated_at": "30\/07\/2024 11:12:45"
+            },
+            {
+                "id": 2602,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.06051302,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 11:17:45",
+                "updated_at": "30\/07\/2024 11:17:45"
+            },
+            {
+                "id": 2608,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.059317112,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 11:22:45",
+                "updated_at": "30\/07\/2024 11:22:45"
+            },
+            {
+                "id": 2614,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.014017105,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 13
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "30\/07\/2024 11:27:45",
+                "updated_at": "30\/07\/2024 11:27:45"
+            },
+            {
+                "id": 3165,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.014017105,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": -1
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "31\/07\/2024 14:19:17",
+                "updated_at": "31\/07\/2024 14:19:17"
+            },
+            {
+                "id": 3167,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.262392998,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 16.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "31\/07\/2024 14:24:17",
+                "updated_at": "31\/07\/2024 14:24:17"
+            },
+            {
+                "id": 3169,
+                "data": {
+                    "id": "7F86B67DC",
+                    "bat_voltage": 5.033675194,
+                    "temperature": [
+                        {
+                            "id": 1,
+                            "temperature": 16.5
+                        }
+                    ]
+                },
+                "id_company": 1,
+                "id_device": 2,
+                "created_at": "31\/07\/2024 14:29:17",
+                "updated_at": "31\/07\/2024 14:29:17"
+            }
+        ]
+    }
+}

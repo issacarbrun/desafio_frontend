@@ -1,0 +1,1197 @@
+{
+    "resultado": true,
+    "device": {
+        "id": 1,
+        "name": "Smartmeter",
+        "id_physical": "6284C5838",
+        "transmission_time": 5,
+        "status": 1,
+        "type": 2,
+        "temperature": 0,
+        "humidity": 0,
+        "io": 0,
+        "energy_consumption": 0,
+        "current": 0,
+        "horimeter": 0,
+        "energy_status": 1,
+        "vibration": 0,
+        "height": 0,
+        "pressure": 0,
+        "wind_speed": 0,
+        "rain_gauge": 0,
+        "wind_direction": 0,
+        "id_company": 1,
+        "created_at": "26/07/2024 18:05:57",
+        "updated_at": "26/07/2024 18:07:24",
+        "sensor": [
+            {
+                "id": 1,
+                "type": 4,
+                "description": "Escritório",
+                "min": "0.00",
+                "max": "200.00",
+                "id_sensor_type": null,
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 18:05:57",
+                "updated_at": "26/07/2024 18:05:57"
+            },
+            {
+                "id": 2,
+                "type": 12,
+                "description": "device",
+                "min": "5.00",
+                "max": "3.00",
+                "id_sensor_type": null,
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 18:05:57",
+                "updated_at": "26/07/2024 18:05:57"
+            },
+            {
+                "id": 3,
+                "type": 13,
+                "description": "device",
+                "min": "3.60",
+                "max": "4.20",
+                "id_sensor_type": null,
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 18:05:57",
+                "updated_at": "26/07/2024 18:05:57"
+            },
+            {
+                "id": 4,
+                "type": 5,
+                "description": "device",
+                "min": "1.00",
+                "max": "1.00",
+                "id_sensor_type": null,
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 18:05:57",
+                "updated_at": "26/07/2024 18:05:57"
+            }
+        ],
+        "data": [
+            {
+                "id": 100,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.065857466,
+                    "current": 0.299352117,
+                    "horimeter": 53.14551926
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:32:36",
+                "updated_at": "26/07/2024 22:32:36"
+            },
+            {
+                "id": 99,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.067541762,
+                    "current": 0.307008011,
+                    "horimeter": 53.12885284
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:31:36",
+                "updated_at": "26/07/2024 22:31:36"
+            },
+            {
+                "id": 98,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.067300719,
+                    "current": 0.305912361,
+                    "horimeter": 53.11218643
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:30:36",
+                "updated_at": "26/07/2024 22:30:36"
+            },
+            {
+                "id": 97,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.0684578,
+                    "current": 0.311171819,
+                    "horimeter": 53.09552002
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:29:36",
+                "updated_at": "26/07/2024 22:29:36"
+            },
+            {
+                "id": 96,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.067913985,
+                    "current": 0.308699932,
+                    "horimeter": 53.07885361
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:28:36",
+                "updated_at": "26/07/2024 22:28:36"
+            },
+            {
+                "id": 94,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.069134384,
+                    "current": 0.314247199,
+                    "horimeter": 53.06218719
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:27:36",
+                "updated_at": "26/07/2024 22:27:36"
+            },
+            {
+                "id": 93,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.067926376,
+                    "current": 0.308756254,
+                    "horimeter": 53.04552078
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:26:36",
+                "updated_at": "26/07/2024 22:26:36"
+            },
+            {
+                "id": 92,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.068006999,
+                    "current": 0.309122721,
+                    "horimeter": 53.02885437
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:25:36",
+                "updated_at": "26/07/2024 22:25:36"
+            },
+            {
+                "id": 91,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.068225038,
+                    "current": 0.31011381,
+                    "horimeter": 53.01218796
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:24:36",
+                "updated_at": "26/07/2024 22:24:36"
+            },
+            {
+                "id": 90,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.067674085,
+                    "current": 0.307609477,
+                    "horimeter": 52.99546814
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:23:36",
+                "updated_at": "26/07/2024 22:23:36"
+            },
+            {
+                "id": 89,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.067382349,
+                    "current": 0.306283405,
+                    "horimeter": 52.97880173
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:22:35",
+                "updated_at": "26/07/2024 22:22:35"
+            },
+            {
+                "id": 88,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.069150499,
+                    "current": 0.314320451,
+                    "horimeter": 52.96213531
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:21:35",
+                "updated_at": "26/07/2024 22:21:35"
+            },
+            {
+                "id": 87,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.067495732,
+                    "current": 0.30679878,
+                    "horimeter": 52.9454689
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:20:35",
+                "updated_at": "26/07/2024 22:20:35"
+            },
+            {
+                "id": 86,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.067311554,
+                    "current": 0.30596161,
+                    "horimeter": 52.92880249
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:19:35",
+                "updated_at": "26/07/2024 22:19:35"
+            },
+            {
+                "id": 85,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.067569836,
+                    "current": 0.307135618,
+                    "horimeter": 52.91213608
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:18:35",
+                "updated_at": "26/07/2024 22:18:35"
+            },
+            {
+                "id": 84,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.066334776,
+                    "current": 0.301521709,
+                    "horimeter": 52.89546967
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:17:35",
+                "updated_at": "26/07/2024 22:17:35"
+            },
+            {
+                "id": 83,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.066140913,
+                    "current": 0.300640513,
+                    "horimeter": 52.87880325
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:16:35",
+                "updated_at": "26/07/2024 22:16:35"
+            },
+            {
+                "id": 82,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.066746102,
+                    "current": 0.30339137,
+                    "horimeter": 52.86213684
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:15:35",
+                "updated_at": "26/07/2024 22:15:35"
+            },
+            {
+                "id": 81,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.065188873,
+                    "current": 0.296313061,
+                    "horimeter": 52.84547043
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:14:35",
+                "updated_at": "26/07/2024 22:14:35"
+            },
+            {
+                "id": 80,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.065041926,
+                    "current": 0.295645117,
+                    "horimeter": 52.82880402
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:13:35",
+                "updated_at": "26/07/2024 22:13:35"
+            },
+            {
+                "id": 78,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.066485354,
+                    "current": 0.302206155,
+                    "horimeter": 52.8121376
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:12:35",
+                "updated_at": "26/07/2024 22:12:35"
+            },
+            {
+                "id": 77,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.061994889,
+                    "current": 0.281794952,
+                    "horimeter": 52.7954216
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:11:35",
+                "updated_at": "26/07/2024 22:11:35"
+            },
+            {
+                "id": 76,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.063598792,
+                    "current": 0.289085416,
+                    "horimeter": 52.77875519
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:10:36",
+                "updated_at": "26/07/2024 22:10:36"
+            },
+            {
+                "id": 75,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.061798334,
+                    "current": 0.280901518,
+                    "horimeter": 52.76208878
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:09:35",
+                "updated_at": "26/07/2024 22:09:35"
+            },
+            {
+                "id": 74,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.062452473,
+                    "current": 0.283874879,
+                    "horimeter": 52.74542236
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:08:35",
+                "updated_at": "26/07/2024 22:08:35"
+            },
+            {
+                "id": 72,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.064709086,
+                    "current": 0.294132211,
+                    "horimeter": 52.72875595
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:07:35",
+                "updated_at": "26/07/2024 22:07:35"
+            },
+            {
+                "id": 71,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.065234494,
+                    "current": 0.296520428,
+                    "horimeter": 52.71208954
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:06:35",
+                "updated_at": "26/07/2024 22:06:35"
+            },
+            {
+                "id": 70,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.064412024,
+                    "current": 0.292781928,
+                    "horimeter": 52.69542313
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:05:35",
+                "updated_at": "26/07/2024 22:05:35"
+            },
+            {
+                "id": 69,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.068054309,
+                    "current": 0.309337769,
+                    "horimeter": 52.67875671
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:04:35",
+                "updated_at": "26/07/2024 22:04:35"
+            },
+            {
+                "id": 68,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.065748569,
+                    "current": 0.298857131,
+                    "horimeter": 52.6620903
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:03:35",
+                "updated_at": "26/07/2024 22:03:35"
+            },
+            {
+                "id": 66,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.064418235,
+                    "current": 0.29281016,
+                    "horimeter": 52.64542389
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:02:35",
+                "updated_at": "26/07/2024 22:02:35"
+            },
+            {
+                "id": 65,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.06496027,
+                    "current": 0.295273955,
+                    "horimeter": 52.62875748
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:01:35",
+                "updated_at": "26/07/2024 22:01:35"
+            },
+            {
+                "id": 64,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.063735921,
+                    "current": 0.289708731,
+                    "horimeter": 52.61209106
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 22:00:35",
+                "updated_at": "26/07/2024 22:00:35"
+            },
+            {
+                "id": 63,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.065530354,
+                    "current": 0.297865247,
+                    "horimeter": 52.59537125
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:59:35",
+                "updated_at": "26/07/2024 21:59:35"
+            },
+            {
+                "id": 62,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.062519626,
+                    "current": 0.284180118,
+                    "horimeter": 52.57870483
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:58:35",
+                "updated_at": "26/07/2024 21:58:35"
+            },
+            {
+                "id": 60,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.06429186,
+                    "current": 0.292235729,
+                    "horimeter": 52.56203842
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:57:36",
+                "updated_at": "26/07/2024 21:57:36"
+            },
+            {
+                "id": 59,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.064969251,
+                    "current": 0.295314776,
+                    "horimeter": 52.54537201
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:56:35",
+                "updated_at": "26/07/2024 21:56:35"
+            },
+            {
+                "id": 58,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.063610952,
+                    "current": 0.289140691,
+                    "horimeter": 52.5287056
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:55:35",
+                "updated_at": "26/07/2024 21:55:35"
+            },
+            {
+                "id": 57,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.064348648,
+                    "current": 0.292493855,
+                    "horimeter": 52.51203918
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:54:35",
+                "updated_at": "26/07/2024 21:54:35"
+            },
+            {
+                "id": 56,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.063548861,
+                    "current": 0.288858459,
+                    "horimeter": 52.49537277
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:53:35",
+                "updated_at": "26/07/2024 21:53:35"
+            },
+            {
+                "id": 54,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.064017808,
+                    "current": 0.290990036,
+                    "horimeter": 52.47870636
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:52:35",
+                "updated_at": "26/07/2024 21:52:35"
+            },
+            {
+                "id": 53,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.064698392,
+                    "current": 0.294083599,
+                    "horimeter": 52.46203995
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:51:35",
+                "updated_at": "26/07/2024 21:51:35"
+            },
+            {
+                "id": 52,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.06525772,
+                    "current": 0.296626001,
+                    "horimeter": 52.44537354
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:50:35",
+                "updated_at": "26/07/2024 21:50:35"
+            },
+            {
+                "id": 51,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.062462908,
+                    "current": 0.28392231,
+                    "horimeter": 52.42870712
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:49:35",
+                "updated_at": "26/07/2024 21:49:35"
+            },
+            {
+                "id": 50,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.065370052,
+                    "current": 0.297136602,
+                    "horimeter": 52.41204071
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:48:35",
+                "updated_at": "26/07/2024 21:48:35"
+            },
+            {
+                "id": 48,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.066597805,
+                    "current": 0.302717295,
+                    "horimeter": 52.39532471
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:47:35",
+                "updated_at": "26/07/2024 21:47:35"
+            },
+            {
+                "id": 47,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.064957164,
+                    "current": 0.295259836,
+                    "horimeter": 52.37865829
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:46:35",
+                "updated_at": "26/07/2024 21:46:35"
+            },
+            {
+                "id": 46,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.063243532,
+                    "current": 0.287470602,
+                    "horimeter": 52.36199188
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:45:35",
+                "updated_at": "26/07/2024 21:45:35"
+            },
+            {
+                "id": 45,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.063090103,
+                    "current": 0.286773197,
+                    "horimeter": 52.34532547
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:44:35",
+                "updated_at": "26/07/2024 21:44:35"
+            },
+            {
+                "id": 44,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.063505611,
+                    "current": 0.288661867,
+                    "horimeter": 52.32865906
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:43:35",
+                "updated_at": "26/07/2024 21:43:35"
+            },
+            {
+                "id": 42,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.063275868,
+                    "current": 0.287617583,
+                    "horimeter": 52.31199265
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:42:35",
+                "updated_at": "26/07/2024 21:42:35"
+            },
+            {
+                "id": 41,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.063955828,
+                    "current": 0.29070831,
+                    "horimeter": 52.29532623
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:41:35",
+                "updated_at": "26/07/2024 21:41:35"
+            },
+            {
+                "id": 40,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.062404392,
+                    "current": 0.283656325,
+                    "horimeter": 52.27865982
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:40:35",
+                "updated_at": "26/07/2024 21:40:35"
+            },
+            {
+                "id": 39,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.063931636,
+                    "current": 0.290598347,
+                    "horimeter": 52.26199341
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:39:35",
+                "updated_at": "26/07/2024 21:39:35"
+            },
+            {
+                "id": 38,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.064120278,
+                    "current": 0.291455809,
+                    "horimeter": 52.245327
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:38:35",
+                "updated_at": "26/07/2024 21:38:35"
+            },
+            {
+                "id": 36,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.062317439,
+                    "current": 0.283261087,
+                    "horimeter": 52.22866058
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:37:35",
+                "updated_at": "26/07/2024 21:37:35"
+            },
+            {
+                "id": 35,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.064155829,
+                    "current": 0.291617406,
+                    "horimeter": 52.21199417
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:36:35",
+                "updated_at": "26/07/2024 21:36:35"
+            },
+            {
+                "id": 34,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.065420624,
+                    "current": 0.297366472,
+                    "horimeter": 52.19527817
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:35:35",
+                "updated_at": "26/07/2024 21:35:35"
+            },
+            {
+                "id": 33,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.066989569,
+                    "current": 0.304498039,
+                    "horimeter": 52.17861176
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:34:35",
+                "updated_at": "26/07/2024 21:34:35"
+            },
+            {
+                "id": 32,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.066623374,
+                    "current": 0.302833518,
+                    "horimeter": 52.16194534
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:33:35",
+                "updated_at": "26/07/2024 21:33:35"
+            },
+            {
+                "id": 30,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.069385689,
+                    "current": 0.315389494,
+                    "horimeter": 52.14527893
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:32:35",
+                "updated_at": "26/07/2024 21:32:35"
+            },
+            {
+                "id": 29,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.066986797,
+                    "current": 0.304485441,
+                    "horimeter": 52.12861252
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:31:35",
+                "updated_at": "26/07/2024 21:31:35"
+            },
+            {
+                "id": 28,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.065306361,
+                    "current": 0.296847097,
+                    "horimeter": 52.11194611
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:30:35",
+                "updated_at": "26/07/2024 21:30:35"
+            },
+            {
+                "id": 27,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.064982283,
+                    "current": 0.295374013,
+                    "horimeter": 52.09527969
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:29:35",
+                "updated_at": "26/07/2024 21:29:35"
+            },
+            {
+                "id": 26,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.066077686,
+                    "current": 0.300353117,
+                    "horimeter": 52.07861328
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:28:35",
+                "updated_at": "26/07/2024 21:28:35"
+            },
+            {
+                "id": 24,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.062771401,
+                    "current": 0.285324549,
+                    "horimeter": 52.06194687
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:27:35",
+                "updated_at": "26/07/2024 21:27:35"
+            },
+            {
+                "id": 23,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.063455516,
+                    "current": 0.288434162,
+                    "horimeter": 52.04528046
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:26:35",
+                "updated_at": "26/07/2024 21:26:35"
+            },
+            {
+                "id": 22,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.063169111,
+                    "current": 0.287132322,
+                    "horimeter": 52.02861404
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:25:35",
+                "updated_at": "26/07/2024 21:25:35"
+            },
+            {
+                "id": 21,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.064711291,
+                    "current": 0.294142233,
+                    "horimeter": 52.01194763
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:24:35",
+                "updated_at": "26/07/2024 21:24:35"
+            },
+            {
+                "id": 20,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.063006004,
+                    "current": 0.286390926,
+                    "horimeter": 51.99522781
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:23:34",
+                "updated_at": "26/07/2024 21:23:34"
+            },
+            {
+                "id": 18,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.065992743,
+                    "current": 0.299967014,
+                    "horimeter": 51.9785614
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:22:34",
+                "updated_at": "26/07/2024 21:22:34"
+            },
+            {
+                "id": 17,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.063908439,
+                    "current": 0.290492907,
+                    "horimeter": 51.96189499
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:21:34",
+                "updated_at": "26/07/2024 21:21:34"
+            },
+            {
+                "id": 16,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.066975989,
+                    "current": 0.304436314,
+                    "horimeter": 51.94522858
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:20:34",
+                "updated_at": "26/07/2024 21:20:34"
+            },
+            {
+                "id": 15,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.064657308,
+                    "current": 0.293896853,
+                    "horimeter": 51.92856216
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:19:34",
+                "updated_at": "26/07/2024 21:19:34"
+            },
+            {
+                "id": 14,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.065135358,
+                    "current": 0.29606981,
+                    "horimeter": 51.91189575
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:18:34",
+                "updated_at": "26/07/2024 21:18:34"
+            },
+            {
+                "id": 12,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.06389787,
+                    "current": 0.290444863,
+                    "horimeter": 51.89522934
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:17:34",
+                "updated_at": "26/07/2024 21:17:34"
+            },
+            {
+                "id": 11,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.062996235,
+                    "current": 0.286346523,
+                    "horimeter": 51.87856293
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:16:34",
+                "updated_at": "26/07/2024 21:16:34"
+            },
+            {
+                "id": 10,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.066864633,
+                    "current": 0.303930149,
+                    "horimeter": 51.86189651
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:15:34",
+                "updated_at": "26/07/2024 21:15:34"
+            },
+            {
+                "id": 9,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.068086373,
+                    "current": 0.309483512,
+                    "horimeter": 51.8452301
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:14:34",
+                "updated_at": "26/07/2024 21:14:34"
+            },
+            {
+                "id": 7,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.068217266,
+                    "current": 0.310078484,
+                    "horimeter": 51.81189728
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:12:34",
+                "updated_at": "26/07/2024 21:12:34"
+            },
+            {
+                "id": 6,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.068283909,
+                    "current": 0.310381405,
+                    "horimeter": 51.79517746
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:11:34",
+                "updated_at": "26/07/2024 21:11:34"
+            },
+            {
+                "id": 5,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.06849634,
+                    "current": 0.311347001,
+                    "horimeter": 51.77851105
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:10:34",
+                "updated_at": "26/07/2024 21:10:34"
+            },
+            {
+                "id": 4,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.06730021,
+                    "current": 0.305910044,
+                    "horimeter": 51.76184464
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:09:34",
+                "updated_at": "26/07/2024 21:09:34"
+            },
+            {
+                "id": 3,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.06546566,
+                    "current": 0.297571183,
+                    "horimeter": 51.74517822
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:08:34",
+                "updated_at": "26/07/2024 21:08:34"
+            },
+            {
+                "id": 2,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.067822693,
+                    "current": 0.308284969,
+                    "horimeter": 51.72851181
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:07:34",
+                "updated_at": "26/07/2024 21:07:34"
+            },
+            {
+                "id": 1,
+                "data": {
+                    "id": "6284C5838",
+                    "energy_consumption": 0.067649107,
+                    "current": 0.307495942,
+                    "horimeter": 51.7118454
+                },
+                "id_company": 1,
+                "id_device": 1,
+                "created_at": "26/07/2024 21:06:34",
+                "updated_at": "26/07/2024 21:06:34"
+            }
+        ]
+    }
+}
